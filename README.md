@@ -21,11 +21,6 @@
 4. `utils`下是各种工具类。
 5. `view`下是各种自定义View
 
-### Our libraries
-1. 图片预览：ImagePreview
-2. 图片选择：ImagePicker（正在进行中 by 高会）
-3. 二维码扫描：QrcodeScanner（正在进行中 by 李凯）
-
 ### Third libraries
 1. [MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker)
 2. [CircleImageView](https://github.com/hdodenhof/CircleImageView)
